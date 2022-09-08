@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 public class T2P1Main {
     public static void main (String[] args){
-        ru.mirea.task2.par1.Shape circle = new Shape();
+        Shape circle = new Shape();
 
         circle.setType("Circle");
         circle.setArea(219.912);
